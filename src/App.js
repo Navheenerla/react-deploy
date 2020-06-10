@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>my react App</h1>
-      <h2>hello world</h2>
+      <h2>hello world this is my first commit</h2>
       <img src={profileimage} alt="profile-image"/>
     </div>
   );
